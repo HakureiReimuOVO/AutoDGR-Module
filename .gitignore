@@ -1,3 +1,13 @@
-datasets/
+/.idea
+
+/datasets/
+
+/checkpoints/
+
+/result/
+
+/temp/
 
 .DS_Store
+
+__pycache__/
